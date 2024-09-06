@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on a
 - 🤔 I’m looking for help with 
 - 💬 Ask me about anything
-- 📫 How to reach me: here
+- 📫 How to reach me: konnor@uchicago.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i lived in korea for 20 years
 
