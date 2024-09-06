@@ -1,8 +1,5 @@
 # Hi there 👋
->I am an undergraduate CS major at the University of Chicago
-
-### Here are some ideas to get you started:
-
+I am an undergraduate CS major at the University of Chicago
 - 🔭 I’m currently working on making
 - 🌱 I’m currently learning some
 - 👯 I’m looking to collaborate on a
