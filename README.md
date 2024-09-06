@@ -1,5 +1,5 @@
-## Hi there 👋
-##I am an undergraduate CS major at the University of Chicago
+ Hi there 👋
+I am an undergraduate CS major at the University of Chicago
 
 Here are some ideas to get you started:
 
